@@ -1,11 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Sai Prakash</h1>
-      
+    <h1>Radha Rajput</h1>
     </div>
   );
 }
