@@ -50,7 +50,7 @@ function App() {
 
 </div>
   </div>
-    <h1>Radha Rajput</h1>
+    <h4>Radha Rajput</h4>
     </div>
   );
 }
