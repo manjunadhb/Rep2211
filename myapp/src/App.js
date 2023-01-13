@@ -17,7 +17,7 @@ function App() {
               src="./indianplayers/rohit-sharma.webp"
               alt="Rohit Sharma"
             ></img>
-            <h4>Rohit Sharma test by local</h4>
+            <h4>Rohit Sharma test server</h4>
           </div>
           <div>
             <img
