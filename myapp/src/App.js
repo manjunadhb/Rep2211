@@ -10,7 +10,7 @@ function App() {
         <div className="player">
           <div>
             <img src="./indianplayers\virat-kohli.webp" alt="Virat Kohli"></img>
-            <h4>Virat Kohli</h4>
+            <h4>Virat Kohli test</h4>
           </div>
           <div>
             <img
