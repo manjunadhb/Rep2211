@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      {/* #Sai Prakash */}
       <h1>India National Cricket Team</h1>
       <div>
         <h2>BATSMEN</h2>
@@ -131,9 +132,11 @@ function App() {
           </div>
         </div>
       </div>
+
+
       <h4>Radha Rajput</h4>
 
-
+{/* #Dheeraj */}
       <div className="App">
     <h1>IPL Teams</h1>
     <div className="IPL">
@@ -159,6 +162,70 @@ function App() {
 </div>
     </div>
     </div>
+
+
+{/* #praneeth */}
+<div>
+<h1>ICC TEAMS</h1>
+      <div class="flag">
+        
+        <a href="https://www.cricbuzz.com/cricket-team/india/2">
+        <img src="https://images.news18.com/ibnlive/uploads/2021/08/national-flag-16289132954x3.jpg" />
+        </a>
+
+        <a href="https://www.cricbuzz.com/cricket-team/australia/4">
+        <img src="https://thumbs.dreamstime.com/b/fluttering-australia-flag-beautiful-colorful-sunset-sunrise-background-australia-success-happiness-concept-fluttering-135776590.jpg"
+        /></a>
+
+      </div>
+      <div className="all">
+      <div class="india">
+        <div class="ind">
+          <h2>India Team</h2>
+          <li>Dhoni (c)</li>
+          <li>Virender Sehwag (vc)</li>
+          <li>Sachin Tendulkar</li>
+          <li>Yuvraj Singh</li>
+          <li>Gauitam Gambhir</li>
+          <li>Rohit sharma</li>
+          <li>Virat Kohli</li>
+          <li>Suresh Raina</li>
+          <li>Zaheer Khan</li>
+          <li>Munaf Patel</li>
+          <li>Ashish Nehra</li>
+          <li>Virat Kohli</li>
+          <li>Harbhajan Singh</li>
+          <li>Piyush Chawla</li>
+          <li>Ravichandran Ashwin</li>
+          <li>Sreesanth</li>
+          <li>Yusuf Pathan</li>
+        </div>
+        </div>
+        <div class="aust">
+        <div class="aus">
+          <h2>Australia Team</h2>
+          <li>Ricky Ponting (c)</li>
+          <li>Michael Clarke(vc)</li>
+          <li>Callum Ferguson</li>
+          <li>Brad Haddin</li>
+          <li>John Hastings</li>
+          <li>Michael Hussey</li>
+          <li>David Hussey</li>
+          <li>Mitchell Johnson</li>
+          <li>Jason Krejza</li>
+          <li>Brett Lee</li>
+          <li>Steven Smith</li>
+          <li>Tim Paine</li>
+          <li>Shaun Tait</li>
+          <li>Shane Watson</li>
+          <li>Cameron White</li>
+          <li>Doug Bollinger</li>
+          <li>Nathan Hauritz</li>
+        </div>
+      </div>
+      </div>
+</div>
+
     </div>
 
 
